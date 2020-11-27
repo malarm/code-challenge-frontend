@@ -10,6 +10,6 @@ React.js frontend for wineandbarrels code challenge.
 ## Getting started
 
 1. Clone repository 
-  `git clone https://github.com/malarm/wineAndBarrels-frontend.git`
+  `https://github.com/malarm/code-challenge-frontend.git`
 2. Run `npm install`
 3. Execute `npm start`
